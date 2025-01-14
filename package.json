@@ -1,7 +1,7 @@
 {
   "name": "grimpan",
   "version": "1.0.0",
-  "description": "캔버스를 만드며 디인 패턴을 학습는 프젝트입니다",
+  "description": "그림판을 만드며 디자인 패턴을 학습하는 프젝트입니다",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
