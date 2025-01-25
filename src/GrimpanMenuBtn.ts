@@ -1,7 +1,7 @@
 import { GrimpanMenu } from "./GrimpanMenu.js";
 
 abstract class GrimpanMenuElementBuilder {
-  btn!: GrimpanMenuBtn;
+  btn!: GrimpanMenuElement;
   constructor() {}
 
   build() {
